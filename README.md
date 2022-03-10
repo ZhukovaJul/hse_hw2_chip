@@ -43,3 +43,11 @@ https://colab.research.google.com/drive/1x_j6ZN8T43TqhYYFPBgRwfirY3p78SWU?usp=sh
 ![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/14be6922f43838423ba208efd7bc159ed019ccd2/img/v2.PNG)
 ![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/14be6922f43838423ba208efd7bc159ed019ccd2/img/v3.PNG)
 ![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/14be6922f43838423ba208efd7bc159ed019ccd2/img/v4.PNG)
+
+Из диаграмм видно, что количество пересекающихся учатсков небольшое. Это связано с тем, что изначально у нас небольшое количество пиков. 
+Количество пересечений на диаграммах рассматриваемых пиков с пиками ENCODE и в пересечении пиков ENCODE с рассматриваемыми разное, так как сначала считается число рассмматриваемых пиков, которые есть в файле с пиками ENCODE; в другом случае считается пики ENCODE, которые есть в файле с рассматриваемыми пиками. 
+
+<h3> Бонус </h3>
+
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/67415bd3e6f8d643922d4aac87bdcf70d380d1e5/img/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(3).png)
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/67415bd3e6f8d643922d4aac87bdcf70d380d1e5/img/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(4).png)
