@@ -27,7 +27,8 @@ https://colab.research.google.com/drive/1x_j6ZN8T43TqhYYFPBgRwfirY3p78SWU?usp=sh
 ![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/c9e83cd96515ba03b12034bfcc79be50b4f9971f/img/RXC_2.PNG)
 ![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/c9e83cd96515ba03b12034bfcc79be50b4f9971f/img/RXC_3.PNG)
 
-<h3> Статистика по чтениям </h3 
+<h3> Статистика по чтениям </h3>
+
 | Образец | Всего ридов | Выравнялось уникально | Выравнялось неуникально | Не выравнялось | 
 |---|---|---|---|---|
 | ENCFF499KLD   | 42889997 | 1604174 (3.74%)  |4318887 (10.07%) |36966936 (86.19%)|
