@@ -51,3 +51,6 @@ https://colab.research.google.com/drive/1x_j6ZN8T43TqhYYFPBgRwfirY3p78SWU?usp=sh
 
 ![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/67415bd3e6f8d643922d4aac87bdcf70d380d1e5/img/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(3).png)
 ![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/67415bd3e6f8d643922d4aac87bdcf70d380d1e5/img/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(4).png)
+
+Не нашла на предложенной картинке свою гистоновую метку. Ориентировалась на картинку: https://www.cell.com/trends/biochemical-sciences/comments/S0968-0004(10)00094-0
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/91e2ecca29689ccb65e0dc67ca9bd74e96a263a9/img/gr1.jpg)
