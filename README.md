@@ -14,5 +14,8 @@ https://colab.research.google.com/drive/1x_j6ZN8T43TqhYYFPBgRwfirY3p78SWU?usp=sh
 
 2 реплика (ENCFF813ERY)
 
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/c9e83cd96515ba03b12034bfcc79be50b4f9971f/img/ERY_1.PNG)
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/c9e83cd96515ba03b12034bfcc79be50b4f9971f/img/ERY_2.PNG)
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/c9e83cd96515ba03b12034bfcc79be50b4f9971f/img/ERY_3.PNG)
 
 Контроль (ENCFF693RXC)
