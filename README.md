@@ -38,3 +38,8 @@ https://colab.research.google.com/drive/1x_j6ZN8T43TqhYYFPBgRwfirY3p78SWU?usp=sh
 Из тыблицы выше видно, что процент тех, которые не выравнились больше, чем процент выравненных. Это связано с тем, что варавнивание производилось на одну хромосому. 
 
 <h3> Диаграммы Венна </h3>
+
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/14be6922f43838423ba208efd7bc159ed019ccd2/img/v1.PNG)
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/14be6922f43838423ba208efd7bc159ed019ccd2/img/v2.PNG)
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/14be6922f43838423ba208efd7bc159ed019ccd2/img/v3.PNG)
+![](https://github.com/ZhukovaJul/hse_hw2_chip/blob/14be6922f43838423ba208efd7bc159ed019ccd2/img/v4.PNG)
