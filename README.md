@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1x_j6ZN8T43TqhYYFPBgRwfirY3p78SWU?usp=sh
 
 <h3> FastQC </h3
 
-ОПИСАТЬ
+В целом чтения неплохие. Качество нуклеотидов в большинстве случаев находится в зеленой зоне, есть и небольшое количество в оранжевой. 
   
 1 реплика (ENCFF499KLD)
 
